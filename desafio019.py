@@ -1,0 +1,3 @@
+import random
+InteFamilia = random.choice(['Clara', 'Rafael', 'Joaquim', 'Rosi'])
+print('Quem lavará a louça será {}'.format(InteFamilia))

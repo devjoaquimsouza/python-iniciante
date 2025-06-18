@@ -1,0 +1,6 @@
+import math
+angulo = float(input('Informe um ângulo: '))
+sen = math.sin(angulo)
+cos = math.cos(angulo)
+tan = math.tan(angulo)
+print('Segue abaixo os resultados \n Seno >> {} \n Cosseno {} \n Tangente {}'.format(sen, cos,tan))

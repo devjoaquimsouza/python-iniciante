@@ -1,0 +1,8 @@
+AlgoDigitado = input('Digite algo: ')
+print('É numérico?', AlgoDigitado.isnumeric())
+print('É alfabético?', AlgoDigitado.isalpha())
+print('É um número e letra?', AlgoDigitado.isalnum())
+print('Está em maiúsculas?', AlgoDigitado.isupper())
+print('É um espaço?', AlgoDigitado.isspace())
+print('Está em minúsculas?', AlgoDigitado.islower())
+print('É um decimal?', AlgoDigitado.isdecimal())

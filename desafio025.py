@@ -1,0 +1,3 @@
+nome = str(input('Digite seu nome completo: ')).upper().lstrip()
+nome = 'SILVA' in nome
+print('Seu nome tem Silva? {}'.format(nome))

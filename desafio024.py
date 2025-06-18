@@ -1,0 +1,4 @@
+cidade = str(input('Digite o nome da cidade: ')).lower().lstrip()
+cidade = 'santo' in cidade
+print(cidade)
+

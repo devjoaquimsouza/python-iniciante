@@ -1,0 +1,3 @@
+sal = float(input('Informe o seu salário em reais: '))
+SalNew = sal + (sal * 0.15)
+print('Seu novo salário será de R$ {:.2f}'.format(SalNew))
