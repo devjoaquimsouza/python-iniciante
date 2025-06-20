@@ -1,3 +1,0 @@
-import random
-aluno = random.sample(['Joaquim', 'Carlos', 'Vini', 'Cesar'], 4)
-print('A sequência de apresentação de alunos, ocorrerá assim: \n {}'.format(aluno))
