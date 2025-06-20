@@ -8,7 +8,7 @@ pygame.mixer.init()
 arquivo_mp3 = "musica.mp3"
 
 # Carrega a música
-pygame.mixer.music.load('d.mp3')
+pygame.mixer.music.load('SeuArquivo.mp3')
 
 # Inicia a reprodução
 pygame.mixer.music.play()
