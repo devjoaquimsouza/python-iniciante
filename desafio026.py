@@ -1,5 +1,0 @@
-frase = str(input('Digite sua frase patrão: ')).strip().upper()
-
-print('A letra A apareceu {} vezes na sua frase.'.format(frase.count('A')))
-print('A letra A apareceu na posição {}'.format(frase.find('A') + 1))
-print('A última letra apareceu na posição {}'.format(frase.rfind('A') + 1)) #rfind para procurar pelo lado contrário
